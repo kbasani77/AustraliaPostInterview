@@ -9,6 +9,10 @@
         <members>Workforce_API_Log_Hstory__c</members>
         <name>CustomObject</name>
     </types>
+        <types>
+        <members>Update_case_closure_Agent</members>
+        <name>Flow</name>
+    </types>
    
     <version>48.0</version>
 </Package>
